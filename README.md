@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PublicAtlas
 
-## Getting Started
+**PublicAtlas** is an open web platform where users can publish and comment on articles about **politics, economics, science**, and more.  
+This project is being developed as part of my independent learning.
 
-First, run the development server:
+## Project Goals
 
-```bash
+- Build a fully functional multi-language web app (Spanish / English).
+- Allow user registration, login, and authentication.
+- Support article creation, editing, and commenting.
+- Implement light/dark mode toggle.
+- Learn and document every step of the process publicly.
+
+## Technologies Used
+
+- **Next.js** – React-based framework for building fast, scalable web apps
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **Node.js & npm** – JavaScript runtime and package manager
+- **Git & GitHub** – Version control and project hosting
+- **Vercel** – Deployment platform for Next.js apps
+
+## Author
+
+This project is being built from scratch by **me** as a personal project to learn full-stack web development.
+
+## Getting Started (for developers)
+
+To run this project locally:
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Then visit http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Learning Goal
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+PublicAtlas is not just a technical project. It's an educational journey. I’m learning full-stack development from scratch and documenting everything — from core concepts to each design decision.
